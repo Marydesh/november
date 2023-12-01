@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.23.3",
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.12",
+    "validate-color": "^2.2.4"
+  },
+  "type": "module",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
